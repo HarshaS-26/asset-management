@@ -1,0 +1,22 @@
+# Docker / MySQL data
+mysql/data/
+mysql/db_data/
+
+# PHP dependencies
+vendor/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+.project
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
