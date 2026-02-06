@@ -66,6 +66,11 @@ html, body {
 th {
     white-space: nowrap;
 }
+
+#assetTable tbody td {
+    font-size: 0.8rem;   
+}
+
 </style>
 </head>
 
